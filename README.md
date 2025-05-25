@@ -1,6 +1,22 @@
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+# 👋 Hi, I’m [Your Name]  
+🌱 Beginner in Cybersecurity, AI & Tech Creativity  
+
+I’m a recent high school graduate with a background in **management and computer science**. I’m currently taking a gap year to dive into:
+
+- 🔐 **Cybersecurity fundamentals**  
+- 🤖 **AI prompting and tools**  
+- 💻 **Coding** in C++, HTML, and Java  
+- 🎨 **Photo & video editing** using Adobe, DaVinci, and Canva  
+
+💡 I’ve also volunteered at the **Kathmandu Youth Conclave**, one of Nepal’s largest youth events, and attended various tech workshops to grow my knowledge and network.
+
+🎯 **My goal**: To become a **skilled ethical hacker** and a **tech entrepreneur** who creates secure, smart, and impactful solutions.
+
+📂 This GitHub showcases my learning journey — from code and creative experiments to real-world involvement.
+
+> 🚀 Let’s connect, collaborate, and build cool things together.
 
 ## Welcome
 
