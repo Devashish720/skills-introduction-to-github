@@ -1,6 +1,6 @@
 # Introduction to GitHub
 
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m [Devashish Shrestha]  
 🌱 Beginner in Cybersecurity, AI & Tech Creativity  
 
 I’m a recent high school graduate with a background in **management and computer science**. I’m currently taking a gap year to dive into:
